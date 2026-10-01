@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 325"
+  short_description: "神话私章：上半保留原照，下半把主体收成有时间感的个人神话图腾"
+  default_prompt: "Use $xxd-panel-325 to transform my photograph following the complete canonical source brief."
