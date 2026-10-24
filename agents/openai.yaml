@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 325"
-  short_description: "神话私章：上半保留原照，下半把主体收成有时间感的个人神话图腾"
-  default_prompt: "Use $xxd-panel-325 to transform my photograph following the complete canonical source brief."
+  short_description: "神话私章：把照片主体收成一枚强轮廓、版画线、带古老记号和档案编号的私人神话图腾"
+  default_prompt: "Use $xxd-panel-325 to turn my photo into Personal Myth Seal artwork."

@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 325｜Personal Myth Seal: keeps the photo and condenses its subject into one small totemic emblem of a personal mythology, like a private sign kept through time — a strong, exaggerated, sometimes incomplete outline, very few elements, block relationships and abstract geometry, with a few non-semantic short lines, dots, circles or ancient-looking marks. Engraving-like lines, slightly unsteady hand drawing, print grain, screenprint texture and paper; a restrained palette of warm white, bone white, charcoal black, grey rose, mist blue, natural green and deep red; extreme whitespace and tiny text such as archive numbers, old-style annotations or non-semantic fragments. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-325 or asks for a personal-mythology totem, engraved symbolic emblem or raw minimal seal from a photo.",
+  "short_description": "神话私章：把照片主体收成一枚强轮廓、版画线、带古老记号和档案编号的私人神话图腾",
+  "zh-CN": {
+    "name": "神话私章",
+    "tagline": "保留原照片，把主体收成一枚有时间感的个人神话图腾。",
+    "look": "照片保持原样，设计部分把主体收成一个图腾式标志：轮廓强、元素少，可以夸张或不完整，用块面和抽象几何搭出结构，旁边可以有几道短线、几个点、圆或像古老记号的小符号，但不堆装饰。线条像版画刻线，略带手绘的不稳，有版画颗粒、丝网纹理和纸感。颜色克制、有时间感：暖白、骨白、炭黑、灰玫瑰、雾蓝、自然绿、暗红。符号像一枚艺术印章，安静地放在大片空白里，可偏移或局部裁切；文字是档案编号、古老注释或无意义的字符碎片，不做标题。",
+    "traits": ["个人神话", "图腾标志", "版画线", "丝网颗粒", "收藏色"],
+    "good": [
+      "有力量感或仪式感的主体：一只乌鸦、一座石塔、一头鹿、一个举起手臂的人",
+      "带古老、神秘或精神意味的照片：山口的巨石、篝火、月亮、古树",
+      "想做成个人标志、纹身草图、乐队图形或艺术项目徽记的照片"
+    ],
+    "poor": [
+      "轻松甜美或可爱向的照片：生日派对、萌宠卖萌、甜品",
+      "需要完整场景或交代情节的照片：家庭合影、旅行记录",
+      "想要鲜艳多彩、光滑矢量、商业 Logo 或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Personal Myth Seal",
+    "tagline": "Keeps your photo and seals the subject as one personal-myth totem with a sense of time.",
+    "look": "The photo stays as it is. The design condenses the subject into a totem-like emblem: a strong outline and very few elements, exaggerated or left incomplete, built from blocks and abstract geometry, with perhaps a few short strokes, dots, circles or ancient-looking marks nearby, never piled-up decoration. Lines look engraved, slightly unsteady by hand, with print grain, screenprint texture and paper. Colours are restrained and feel old: warm white, bone white, charcoal black, grey rose, mist blue, natural green and deep red. The symbol sits like an artist's seal in wide empty space, possibly offset or cropped; text is an archive number, an old-style annotation or meaningless character fragments, never a title.",
+    "traits": ["Personal mythology", "Totem emblem", "Engraved line", "Screenprint grain", "Collector's palette"],
+    "good": [
+      "Subjects with strength or ritual feeling: a crow, a stone tower, a deer, someone raising an arm",
+      "Photos with an ancient, mysterious or spiritual air: a boulder at a mountain pass, a bonfire, the moon, an old tree",
+      "Photos you want as a personal mark, a tattoo sketch, a band graphic or an art-project emblem"
+    ],
+    "poor": [
+      "Light, sweet or cute photos: birthday parties, pets being adorable, desserts",
+      "Photos that need the whole scene or a story told: family portraits, travel records",
+      "Wanting bright multicolour, glossy vector, a corporate logo or a cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "私的神話の印",
+    "tagline": "写真はそのままに、主役を時間の重みを感じる私的な神話のトーテムとして封じます。",
+    "look": "写真はそのまま残し、デザイン側は主役をトーテムのような標章にまとめます。輪郭は強く、要素はごく少なく、誇張しても欠けていてもよく、面の組み合わせと抽象的な幾何学で構造をつくります。そばに短い線、点、円、古い刻印のような小さな記号をいくつか置くことはあっても、装飾を重ねることはしません。線は版画の彫り線のようで、手描きらしい少しの不安定さがあり、版の粒子、シルクスクリーンの質感、紙の感触が残ります。色は控えめで時間を感じさせ、温かな白、骨のような白、炭の黒、灰みのローズ、霧のような青、自然な緑、深い赤です。シンボルは作家の落款のように広い余白に静かに置かれ、ずらしたり一部を切ったりすることもあります。文字は資料番号、古い注記のようなもの、意味をもたない文字の断片で、見出しにはしません。",
+    "traits": ["私的な神話", "トーテムの標章", "版画の線", "シルクスクリーンの粒子", "コレクションの色"],
+    "good": [
+      "力強さや儀式の気配がある主役：カラス、石の塔、鹿、腕を掲げる人",
+      "古い、神秘的、精神的な空気のある写真：峠の巨石、焚き火、月、古木",
+      "個人のマーク、タトゥーの下絵、バンドのグラフィック、アートプロジェクトの紋章にしたい写真"
+    ],
+    "poor": [
+      "軽やかで甘い、かわいい系の写真：誕生日パーティー、ペットのかわいい仕草、スイーツ",
+      "場面全体や筋を伝える必要がある写真：家族写真、旅の記録",
+      "華やかな多色、なめらかなベクター、企業ロゴ、キャラクター風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "개인 신화 도장",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 시간의 무게가 느껴지는 개인 신화의 토템으로 봉인합니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 주인공을 토템 같은 표장으로 압축합니다. 윤곽은 강하고 요소는 아주 적으며, 과장되거나 미완성이어도 되고, 면의 관계와 추상 기하로 구조를 세웁니다. 곁에 짧은 선, 점, 원, 오래된 각인 같은 작은 기호를 몇 개 둘 수는 있지만 장식을 쌓지는 않습니다. 선은 판화의 새김선 같고 손그림다운 약간의 불안정함이 있으며, 판화 입자, 실크스크린 질감, 종이 느낌이 남습니다. 색은 절제되고 시간이 느껴지게 따뜻한 흰색, 뼈 같은 흰색, 숯빛 검정, 회색빛 장미색, 안개 낀 파랑, 자연스러운 초록, 검붉은색을 씁니다. 심벌은 작가의 낙관처럼 넓은 여백에 조용히 놓이고, 한쪽으로 비키거나 일부가 잘리기도 합니다. 글자는 문서 번호, 옛 주석 같은 문구, 뜻 없는 문자 조각이며 제목이 되지 않습니다.",
+    "traits": ["개인 신화", "토템 표장", "판화 선", "실크스크린 입자", "소장의 색"],
+    "good": [
+      "힘이나 의식의 기운이 있는 주인공: 까마귀, 돌탑, 사슴, 팔을 들어 올린 사람",
+      "오래되고 신비롭거나 영적인 분위기의 사진: 고갯마루의 큰 바위, 모닥불, 달, 고목",
+      "개인 마크, 타투 도안, 밴드 그래픽, 예술 프로젝트 문장으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "가볍고 달콤하거나 귀여운 사진: 생일 파티, 반려동물의 애교, 디저트",
+      "장면 전체나 줄거리를 전해야 하는 사진: 가족사진, 여행 기록",
+      "화려한 다색, 매끈한 벡터, 기업 로고, 캐릭터풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ختم الأسطورة الشخصية",
+    "tagline": "يحتفظ بصورتك ويختم عنصرها طوطماً لأسطورة شخصية يحمل إحساساً بالزمن.",
+    "look": "تبقى الصورة كما هي، ويكثّف التصميم العنصر في شعار يشبه الطوطم: خط خارجي قوي وعناصر قليلة جداً، مبالغ فيها أو ناقصة، مبنية من كتل وهندسة مجرّدة، وقد ترافقها بضعة خطوط قصيرة أو نقاط أو دوائر أو علامات تبدو قديمة، من دون تكديس للزخرفة. الخطوط تشبه الحفر الطباعي، فيها شيء من عدم ثبات اليد، مع حبيبات الطباعة وملمس الشاشة الحريرية والورق. الألوان مقتصدة توحي بالقِدم: أبيض دافئ وأبيض عظمي وأسود فحمي ووردي رمادي وأزرق ضبابي وأخضر طبيعي وأحمر قاتم. يجلس الرمز كختم فنان في فراغ واسع، وقد يُزاح أو يُقطع جزء منه؛ والنص رقم أرشيف أو حاشية بطابع قديم أو شذرات حروف بلا معنى، لا عنوان.",
+    "traits": ["أسطورة شخصية", "شعار طوطمي", "خط محفور", "حبيبات الشاشة الحريرية", "ألوان المقتنيات"],
+    "good": [
+      "عناصر فيها قوة أو إحساس بالطقوس: غراب، برج حجري، أيل، شخص يرفع ذراعه",
+      "صور فيها جو قديم أو غامض أو روحي: صخرة عند ممر جبلي، نار مخيّم، القمر، شجرة معمّرة",
+      "صور تريدها علامةً شخصية أو مسودة وشم أو تصميماً لفرقة موسيقية أو شعاراً لمشروع فني"
+    ],
+    "poor": [
+      "صور خفيفة حلوة أو لطيفة: حفلات أعياد الميلاد، دلال الحيوانات الأليفة، الحلويات",
+      "صور تحتاج إلى المشهد كاملاً أو سرد حكاية: صور العائلة، توثيق الرحلات",
+      "الرغبة في ألوان كثيرة زاهية أو رسم متجهي لامع أو شعار تجاري أو مظهر كرتوني"
+    ]
+  }
+}

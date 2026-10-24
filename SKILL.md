@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-325
-description: "Create XXD Panel 325 raster artwork: a faithful photograph paired with one personal-mythology totem, strong contour, engraving line and screen-print grain. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-325 or asks for this 神话私章 style."
+description: "XXD Panel 325｜Personal Myth Seal: keeps the photo and condenses its subject into one small totemic emblem of a personal mythology, like a private sign kept through time — a strong, exaggerated, sometimes incomplete outline, very few elements, block relationships and abstract geometry, with a few non-semantic short lines, dots, circles or ancient-looking marks. Engraving-like lines, slightly unsteady hand drawing, print grain, screenprint texture and paper; a restrained palette of warm white, bone white, charcoal black, grey rose, mist blue, natural green and deep red; extreme whitespace and tiny text such as archive numbers, old-style annotations or non-semantic fragments. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-325 or asks for a personal-mythology totem, engraved symbolic emblem or raw minimal seal from a photo."
 ---
 
 # XXD Panel 325
